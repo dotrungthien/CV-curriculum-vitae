@@ -8,6 +8,8 @@ Kho chứa hồ sơ xin việc / xin học của chủ kho: CV, 자소서 (bài 
 
 Tại thời điểm tạo tệp này (11/11/2026) kho chưa có tệp nào khác. Đơn đang làm, hạn nộp và các bản nháp nằm trong gói bàn giao chủ kho giữ ngoài kho; đầu phiên hỏi chủ kho dán gói đó nếu cần.
 
+Trước khi đọc hay ghi thu_vien/, đọc thu_vien/HUONG_DAN_THU_VIEN.md.
+
 ## Kho đang PUBLIC
 
 Mọi thứ commit lên đây ai cũng đọc được. Không commit: số điện thoại, email, ngày sinh, thu nhập, nợ, số dư tài khoản, chuyện nhập quốc tịch, giấy tờ cá nhân. Gói bàn giao hồ sơ (có các thông tin trên) chỉ giữ ngoài kho; muốn đưa vào thì chủ kho chuyển kho sang Private trước.
